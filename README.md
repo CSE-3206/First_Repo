@@ -1,1 +1,2 @@
-# First_repo
+# Our first repo.
+# Author: RUET CSE
